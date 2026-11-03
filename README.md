@@ -8,8 +8,6 @@ A multi-category marketplace app connecting buyers and sellers to buy, sell, and
 
 The first user interface of SAMSARI has been developed using Flutter.
 
-![SAMSARI Login Page](login.png)
-
 ## 🚧 Project Status
 
 Currently in Development.
